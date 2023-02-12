@@ -3,4 +3,26 @@
 .heading {
     text-align: center;
     padding-top: 25px;
+    font-size: 30;
+}
+
+p { 
+    text-align: center;
+    padding: 25px;
+}
+
+.about {
+    font-size: 20px;
+}
+
+.lime {  
+    padding: 25px;
+}
+
+.choco {
+    padding: 25px;
+}
+
+.marb {
+    padding: 25px;
 }
